@@ -3,7 +3,7 @@ Emacs lisp for SoftLayer
 
 # Installation
 
-**softlayer.el** and **request.el** is in a directory on your load-path, and add the following to your ~/.emacs or ~/.emacs.d/init.el:
+`softlayer.el` and `request.el` is in a directory on your load-path, and add the following to your ~/.emacs or ~/.emacs.d/init.el:
 
 ```
 (setq sl-user "SLUSER")
@@ -11,3 +11,18 @@ Emacs lisp for SoftLayer
 
 (require 'softlayer)
 ```
+
+# Usage
+
+Enable it by running M-x softlayer
+
+# Examples
+
+|command|description|
+|:--|--:|
+|vl|List display of the virtual machine|
+|C-j |Detailed view of the virtual machine|
+
+
+
+
