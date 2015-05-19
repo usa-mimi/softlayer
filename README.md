@@ -21,7 +21,7 @@ Enable it by running M-x softlayer
 |command|description|
 |:--|:--|
 |vl|List display of the virtual machine|
-|C-m |Detailed view of the virtual machine|
+|\C-m |Detailed view of the virtual machine|
 
 
 
